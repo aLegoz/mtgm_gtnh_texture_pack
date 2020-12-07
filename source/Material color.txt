@@ -1,0 +1,9 @@
+Steel(LV)-# 808080
+Aluminium(MV)-# 80c8f0
+StainlessSteel(HV)-# c8c8dc
+Titanium(EV)-# dca0f0
+TungstenSteel(IV)-# 6464a0
+Chrome(LuV)-# ffe6e6
+Iridium(ZPM)-# 64c8c8
+Osmium(UV)-# 82b482 
+neutronium-# ffffff
