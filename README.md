@@ -1,4 +1,5 @@
-# MTGM-Texture-pack-Minecraft-1.7.10
-MTGM Texture pack for Minecraft 1.7.10 , ic2, gregtech5
+# MTGM-Texture-pack
 
-Project dropped. Original author Alego22, all credits to him. 
+MTGM Texture pack for Minecraft 1.7.10 based on Greg Tech New Horisons modpack.
+
+Author Alego22.
